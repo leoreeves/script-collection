@@ -1,3 +1,5 @@
+# Either removes or adds VAT to the amount you enter.
+
 from decimal import Decimal
 
 amount = Decimal(input("Amount(£): "))
