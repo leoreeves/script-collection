@@ -1,4 +1,4 @@
-# finds a character in a word
+# finds n character in a word
 
 word = input("Word: ")
 
