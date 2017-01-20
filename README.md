@@ -1,2 +1,3 @@
-# Python Playground
-A collection of Python scripts I've made.
+# Code Playground
+
+A collection of scripts I've made in a variety of languages.
