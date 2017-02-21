@@ -1,5 +1,5 @@
 /**
- * Generates a number starting with 07, the third digit is between 3-9 and the
+ * Generates a UK mobile number starting with 07, the third digit is between 3-9 and the
  * remaining 8 random digits have no restrictions.
  */
 
